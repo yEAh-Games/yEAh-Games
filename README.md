@@ -4,7 +4,7 @@
 
 ****
  <font color="white"><b>
- > If you're looking for more detailed, reliable information on this project that isn't here and is always up to date, you should visit the yEAh Games Documentation (docs) at [docs.yeahgames.net](https://docs.yeahgames.net).</b>
+ > If you're looking for more detailed, reliable information on this project that isn't here and is always up to date, you should visit the original source for this file, the yEAh Games Documentation (docs) at [docs.yeahgames.net](https://docs.yeahgames.net).</b>
 </font>
 
 
