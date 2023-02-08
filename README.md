@@ -11,8 +11,6 @@
 
 We host the entire yEAh Games network (https://yeahgames.net) off of this account, along with storage, and more.
 
-*Note: Are you a member and wanting to officially join the yEAh Games GitHub team? Visit our organization account <a href="//github.com/yeahgames">@yEAhGames</a>*.
-
 ***
 
 <h2>Contributing</h2>
@@ -38,5 +36,8 @@ If you're unsure on how to start editing, consider looking at notes, projects, p
 If you're not looking on becoming a contributor, but want to resolve a problem you've found, suggest an edit, or recommend a change, please create an **issue**, a **pull request** (for your changes), or start a **discussion** _in **that repository**_ for a contributor to review and publish.
 
 If you're a registered contributor and unsure on where to find stuff to do, admins can review the[ admin dashboard](https://admin.yeahgames.net/forms/login/auth.html) for to-do lists or notes from other collaborators embedded directly into it.
+
+*Note: Are you a member and wanting to officially join yEAh Games on GitHub? Visit our organization account <a href="//github.com/yeahgames">@yEAhGames</a>*.
+
 
 ****
