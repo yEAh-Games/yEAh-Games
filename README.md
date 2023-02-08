@@ -10,6 +10,7 @@
 
 
 We host the entire yEAh Games network (https://yeahgames.net) off of this account, along with storage, and more.
+*Note: Are you a member and wanting to officially join the yEAh Games GitHub team? Visit our organization account <a href="//github.com/yeahgames">@yEAhGames</a>*
 
 ***
 
