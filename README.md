@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/oPWJO1Q.png">
 
-# Welcome to the official yEAh Games GitHub account!
+# Welcome to the official yEAh Games GitHub account! <a rel="me" href="https://mstdn.social/@yeah">⠀</a>
 
 ****
  <font color="white"><b>
