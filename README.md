@@ -17,9 +17,9 @@ We host the entire yEAh Games network (https://yeahgames.net) off of this accoun
 
 Anyone can contribute to the yEAh Games GitHub project & network. Questions about the application process? Read below. Want to know how to suggest a change? Read below.
 
-<h3>Main contributors</h3>
+<!--<h3>Main contributors</h3>
 
-<!--<ul></ul>
+<ul></ul>
 <li><a href="https://github.com/nnillat"> Tallinn  (@nnillat)</a> [lead dev]
 <br>
 <li><a href="https://github.com/undonesundew"> Aidan  (@undonesundew)</a> [admin]
