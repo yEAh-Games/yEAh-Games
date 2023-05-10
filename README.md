@@ -19,11 +19,11 @@ Anyone can contribute to the yEAh Games GitHub project & network. Questions abou
 
 <h3>Main contributors</h3>
 
-<ul></ul>
+<!--<ul></ul>
 <li><a href="https://github.com/nnillat"> Tallinn  (@nnillat)</a> [lead dev]
 <br>
 <li><a href="https://github.com/undonesundew"> Aidan  (@undonesundew)</a> [admin]
-</ul>
+</ul>-->
 
 <h3>Making contributions</h3>
 
